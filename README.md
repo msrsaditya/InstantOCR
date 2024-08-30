@@ -1,3 +1,5 @@
+[Screenshot](Screenshot.png)
+
 ## Clone this repository
 
 ```cd /path/to/project```
