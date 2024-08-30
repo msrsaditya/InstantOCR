@@ -1,4 +1,4 @@
-[Screenshot](Screenshot.png)
+![Screenshot](https://github.com/msrsaditya/InstantOCR/blob/main/Screenshot.png)
 
 ## Clone this repository
 
